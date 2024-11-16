@@ -184,7 +184,7 @@ calcButton.addEventListener('click', () => {
       return;
   }
 
-  resultDiv.textContent = `Результат у🦅: ${result}`;
+  resultDiv.textContent = `Результат 🦅: ${result}`;
 });
 
 
